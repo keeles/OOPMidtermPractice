@@ -1,0 +1,14 @@
+{
+  "name": "week7",
+  "version": "1.0.0",
+  "description": "OOP Week 7",
+  "main": "index.js",
+  "scripts": {
+    "run": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.19"
+  }
+}
